@@ -6,7 +6,7 @@ public class Greeter {
 		
 		if(name.equals("MAN")){
 			
-			throw new IllegalArgumentException();
+			throw new IllegalArgumentException();//rien
 			
 		}
 		
